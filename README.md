@@ -1,2 +1,0 @@
-# ReverseNumber
-reverse input number
